@@ -1,5 +1,5 @@
 # nodejs-hbs-materialize
-plantilla basica con nodejs- handelbars (hbs) y maerialize 1.0.0 (completo)
+plantilla basica con nodejs- handelbars (hbs) y materialize 1.0.0 (completo)
 
 Funcionamiento basico:
 ```ruby
